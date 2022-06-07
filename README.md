@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**EgorZHv2/EgorZHv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi I'm egor :hand:
+I am a college student studying to become an information systems specialist.
+## I've been working with:
+1. Programming language C#
+2. WPF
+3. ASP.NET
+4. MS SQL Server
+5. My SQL
+6. Entity Framework
+7. To a lesser extent with Unity

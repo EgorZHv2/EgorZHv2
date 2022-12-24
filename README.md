@@ -8,3 +8,11 @@ I am a college student, studying to become an information systems specialist.
 5. My SQL
 6. Entity Framework
 7. To a lesser extent with Unity
+
+## My stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgorZHv2&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EgorZHv2&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EgorZHv2&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorZHv2&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EgorZHv2&theme=github_dark&utcOffset=8)

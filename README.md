@@ -1,10 +1,5 @@
 # Hi, I'm Egor :hand:
-I am a college student, studying to become an information systems specialist.
-## I've been working with:
-1. Programming language C# and Java
-2. WPF
-3. ASP.NET
-4. Spring
+
 
 
 ## My stats
